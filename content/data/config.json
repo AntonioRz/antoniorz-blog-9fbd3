@@ -37,7 +37,7 @@
         "secondary_nav_links": [
             {
                 "label": "Blog",
-                "url": "/pricing",
+                "url": "/blog",
                 "style": "primary"
             },
             {
