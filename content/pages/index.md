@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great About App Land?
+    title: ¿Por qué leer mi blog?
     subtitle: In a Glance
     align: center
     grid_items:
