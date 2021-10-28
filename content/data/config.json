@@ -42,7 +42,7 @@
             },
             {
                 "label": "Conóceme",
-                "url": "/pricing",
+                "url": "/about",
                 "style": "secondary"
             }
         ]
