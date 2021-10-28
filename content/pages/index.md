@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Todos podemos hacer un Internet más seguro
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: La seguridad de la información es responsabilidad de cada uno
     content: >
       Échale un  vistazo al blog para aprender cómo tú también puedes ejecutar
       acciones sencillas para proteger tus datos en Internet
