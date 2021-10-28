@@ -24,7 +24,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: ¿Por qué leer mi blog?
-    subtitle: In a Glance
     align: center
     grid_items:
       - title: Explicaciones con lenguaje sencillo
