@@ -109,7 +109,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit App Theme
     - name: 'twitter:description'
-      value: The preview of the App theme
+      value: Todos podemos hacer un Internet más seguro
     - name: 'twitter:image'
       value: /images/IconoLogo2.png
       relativeUrl: true
