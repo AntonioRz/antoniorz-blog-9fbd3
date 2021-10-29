@@ -72,7 +72,7 @@
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Términos y condiciones",
                 "url": "/terms-conditions",
                 "style": "link"
             },
