@@ -43,11 +43,11 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Cuando Internet nació, su único propósito era compartir información lo "más rápido posible" (considerando los medios de comunicación de la epoca). A nadie se le ocurrió que podría haber espías leyendo esos mensajes o que se podía robar información del lugar donde se almacenaban los datos. Desafortunadamente nadie dijo "¡Oh! Mira qué fácil es acceder a este archivo clasificado. Deberíamos implementar medidas de seguridad".
+Cuando Internet nació, su único propósito era compartir información lo "más rápido posible" (considerando los medios de comunicación de la epoca). A nadie se le ocurrió que podría haber espías leyendo esos mensajes o que se podía robar información del lugar donde se almacenaban los datos. Desafortunadamente nadie dijo *"¡Oh! Mira qué fácil es acceder a este archivo clasificado. Deberíamos implementar medidas de seguridad".*
 
-Actualmente eso ha cambiado mucho y cada vez existen medidas de seguridad más confiables y efectivas. Pero no necesitamos ser expertos en Ciberseguridad para aplicar esas medidas a nuestra vida diaria. Si estás leyendo esto, eres parte de Internet y debes saber que tienes la responsabilidad de cuidar tu información personal.
+Actualmente eso ha cambiado mucho y *cada vez existen medidas de seguridad más confiables y efectivas*. Pero no necesitamos ser expertos en Ciberseguridad para aplicar esas medidas a nuestra vida diaria. Si estás leyendo esto, eres parte de Internet y debes saber que tienes la **responsabilidad **de cuidar tu información personal.
 
-¿Por qué debería importarme la seguridad informática?
+###### ¿Por qué debería importarme la seguridad informática?
 
 Desde hace tiempo, Internet se volvió parte crucial de nuestras vidas; tanto así que cuando cae una de las grandes compañías, la comunicación colapsa y nos sentimos impotentes porque lo único que podemos hacer es recargar la app hasta ver si por fin se envió nuestro mensaje. La verdad es que le hemos dado mucho poder a Internet; tanto poder que no nos importa la información personal que almacenan de nosotros o los permisos innecesarios que puede solicitar una aplicación de "calculadora". Esta pasividad ante cómo se recolecta y almacena nuestra información es un arma de doble filo, pues si bien nos da acceso a todo un mundo, no nos damos cuenta que nosotros mismo alimentamos ese mundo.
 
