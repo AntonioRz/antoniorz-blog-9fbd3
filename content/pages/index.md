@@ -113,7 +113,6 @@ sections:
     background_image_opacity: 10
   - type: blog_feed_section
     title: Productivity Blog
-    subtitle: What's Up?
     actions:
       - label: View All
         url: /blog
