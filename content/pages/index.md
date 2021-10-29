@@ -41,9 +41,9 @@ sections:
         image_position: top
       - title: Consejos para todos tus dispositivos
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Información para tu PC, celular, tablet, Smart TV, asistentes e
+          "Internet de las cosas".
         content_align: left
         actions:
           - label: Learn More
