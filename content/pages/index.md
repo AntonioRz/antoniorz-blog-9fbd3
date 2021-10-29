@@ -88,7 +88,7 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: AntonioRz
+  title: AntonioRz Blog
   description: Todos podemos hacer un Internet más seguro
   extra:
     - name: 'og:type'
