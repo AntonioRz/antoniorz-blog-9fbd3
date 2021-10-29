@@ -60,9 +60,10 @@ sections:
         image_position: top
       - title: Comparte con tus conocidos
         title_align: left
-        content: >
-          Si aprendiste algo leyendo mi blog, por favor comparte. Me sería de
-          mucha ayuda :D
+        content: |
+          Si aprendiste algo leyendo mi blog, por favor comparte. 
+
+          Me sería de mucha ayuda.
         content_align: left
         actions:
           - label: Learn More
