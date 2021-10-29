@@ -101,7 +101,7 @@ seo:
       value: The preview of the App theme
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/icono1-de1c2d62.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
