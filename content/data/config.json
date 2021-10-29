@@ -68,7 +68,7 @@
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Últimos posts",
                 "url": "/blog/category/news",
                 "style": "link"
             },
