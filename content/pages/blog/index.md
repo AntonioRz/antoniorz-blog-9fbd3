@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Suscrib
+    title: Suscribete para estar informado de nuevas publicaciones
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
