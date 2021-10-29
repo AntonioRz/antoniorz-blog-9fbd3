@@ -88,7 +88,7 @@ sections:
   - type: blog_feed_section
     title: Blog
     actions:
-      - label: View All
+      - label: Ver todos
         url: /blog
         style: primary
     blog_feed_cols: two
