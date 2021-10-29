@@ -6,10 +6,7 @@ categories:
   - content/data/categories/general.yaml
 tags:
   - content/data/tags/informativo.yaml
-excerpt: >-
-  Setting realistic expectations for yourself and your colleagues, putting down
-  your phone for 30 minutes a day, and the "no cellphone in bed" rule  — what's
-  the best way to get to Zen?
+excerpt: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
 thumb_image: /images/blog1.jpg
 thumb_image_alt: Post 5 placeholder image
 image: /images/blog1.jpg
@@ -17,7 +14,7 @@ image_alt: Post 5 placeholder image
 image_position: right
 seo:
   title: ¿Qué carajos es la seguridad informática?
-  description: 'Explicación sencilla de seguridad informática'
+  description: Explicación sencilla de seguridad informática
   extra:
     - name: 'og:type'
       value: article
@@ -26,7 +23,7 @@ seo:
       value: ¿Qué carajos es la seguridad informática?
       keyName: property
     - name: 'og:description'
-      value: 'Explicación sencilla de seguridad informática'
+      value: Explicación sencilla de seguridad informática
       keyName: property
     - name: 'og:image'
       value: images/blog1.jpg
@@ -37,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: ¿Qué carajos es la seguridad informática?
     - name: 'twitter:description'
-      value: 'Explicación sencilla de seguridad informática'
+      value: Explicación sencilla de seguridad informática
     - name: 'twitter:image'
       value: images/blog1.jpg
       relativeUrl: true
