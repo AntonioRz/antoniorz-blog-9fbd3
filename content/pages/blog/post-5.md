@@ -43,7 +43,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Cuando Internet nació, su único propósito era compartir mensajes lo más rápido posible. A nadie se le ocurrió que podría haber espías leyendo esos mensajes o que se podía robar información del lugar donde se almacenaban los datos. Desafortunadamente nadie dijo "¡Oh! Mira qué fácil es acceder a este archivo clasificado. Deberíamos implementar medidas de seguridad".
+Cuando Internet nació, su único propósito era compartir información lo "más rápido posible" (considerando los medios de comunicación de la epoca). A nadie se le ocurrió que podría haber espías leyendo esos mensajes o que se podía robar información del lugar donde se almacenaban los datos. Desafortunadamente nadie dijo "¡Oh! Mira qué fácil es acceder a este archivo clasificado. Deberíamos implementar medidas de seguridad".
 
 Actualmente eso ha cambiado mucho y cada vez existen medidas de seguridad más confiables y efectivas. Pero no necesitamos ser expertos en Ciberseguridad para aplicar esas medidas a nuestra vida diaria. Si estás leyendo esto, eres parte de Internet y debes saber que tienes la responsabilidad de cuidar tu información personal.
 
