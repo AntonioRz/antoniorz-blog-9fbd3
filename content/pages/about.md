@@ -40,7 +40,7 @@ Soy fiel creyente de que el conocimiento debería estar al alcance de todos. Es 
 
 En mi experiencia, me he dado cuenta que la gente casi no se preocupa por donde almacena su información o qué tipo de datos otorgan a practicamente cualquiera. Considero que esto se debe al desconocimiento que tienen las personas de poder usar medidas sencillas para estar más seguros en Internet. *Se suele pensar que esta información sólo es entendible para personas muy especializadas, pero esto no es verdad.*
 
-Si queremos un **Internet al alcance de todos**, tenemos que sensibilizar a la gente de la importancia de su \*\*privacidad\*\* y de como se usan sus datos. Internet puede ser un lugar mejor, está en manos de todos sus usuarios el crear un lugar más amigable para todos.
+Si queremos un **Internet al alcance de todos**, tenemos que sensibilizar a la gente de la importancia de su **privacidad** y de como se usan sus datos. Internet puede ser un lugar mejor, está en manos de todos sus usuarios el crear un lugar más amigable para todos.
 
 **¡Todos podemos hacer de Internet un lugar más seguro!**
 
