@@ -107,7 +107,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit App Theme
+      value: AntonioRz Blog
     - name: 'twitter:description'
       value: Todos podemos hacer un Internet más seguro
     - name: 'twitter:image'
