@@ -28,19 +28,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+#### ![](https://soyantoniorz.com/images/icono1-de1c2d62.png)&#xA;&#xA;Hola mi nombre es Antonio Ruiz, soy **ingeniero en seguridad de la información**. Me especializo en arquitectura de **seguridad Cloud y Endpoints**.
 
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+#### Soy un apasionado de la tecnología y el impacto positivo que tiene en nuestra sociedad. Creo en un **Internet decentralizado, libre y seguro**. Me gustaría vivir la **Web 3.0** en su apogeo. 
 
-![Our team](/images/team.jpg)
+#### Internet ha impactado mucho en mi desarrollo profesional y personal. Por lo que considero que Internet es una herramienta que toda persona a su accesso debería **explotar**.
 
-## Work Life Balance
+##
 
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
+## Mi objetivo con este blog: 
 
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
+#### En mi experiencia, me he dado cuenta que la gente casi no se preocupa por donde almacena su información o qué tipo de datos otorgan a practicamente cualquiera. Considero que esto se debe al desconocimiento que tienen las personas de poder usar medidas sencillas para estar más seguros en Internet. Se suele pensar que esta información sólo es entendible para personas muy especializadas, pero esto no es verdad.
 
-With App Land, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
+#### &#xA;Soy fiel creyente de que el **conocimiento **debería estar al alcance de **todos**. Es por eso que en este blog pretendo compartir **información básica y úti**l que todos deberían conocer para proteger mejor su información. En este blog trataré de no usar tecnicismos, sino que te explicaré con un **lenguaje cotidiano y ejemplos sencillos**. Mi propósito es que cada palabra que leas te sea **útil **en tu día a día con consejos prácticos que puedas poner en acción al terminar de leer un artículo.&#xA;&#xA;Si queremos un **Internet al alcance de todos**, tenemos que sensibilizar a la gente de la importancia de su **privacidad **y de como se usan sus **datos**. Internet puede ser un lugar mejor, está en manos de todos sus usuarios el crear un lugar más amigable para todos.
 
-## We Value Your YOU Time
+#### **¡Todos podemos hacer de Internet un lugar más seguro!**
 
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
+> *"La única manera de lidiar con un mundo sin libertad es llegar a ser tan absolutamente libre que tu misma existencia es un acto de rebelión" - Albert Camus*
