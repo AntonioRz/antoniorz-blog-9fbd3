@@ -1,6 +1,6 @@
 ---
 title: ¿Qué carajos es la seguridad informática?
-subtitle: 'Internet no fue hecho para ser seguro. '
+subtitle: Internet no fue hecho para ser seguro.
 date: '2020-06-02'
 categories:
   - content/data/categories/tutorials.yaml
