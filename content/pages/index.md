@@ -98,7 +98,7 @@ seo:
       value: Antonio Rz
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: Todos podemos hacer un Internet más seguro
       keyName: property
     - name: 'og:image'
       value: /images/icono1-de1c2d62.png
