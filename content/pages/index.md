@@ -88,7 +88,7 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: Stackbit App Theme
+  title: AntonioRz
   description: The preview of the App theme
   extra:
     - name: 'og:type'
