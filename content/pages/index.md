@@ -60,9 +60,9 @@ sections:
         image_position: top
       - title: Comparte con tus conocidos
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Si aprendiste algo leyendo mi blog, por favor comparte. Me sería de
+          mucha ayuda :D
         content_align: left
         actions:
           - label: Learn More
