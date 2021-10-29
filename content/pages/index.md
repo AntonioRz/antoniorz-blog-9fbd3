@@ -7,10 +7,7 @@ sections:
     content: >
       Échale un  vistazo al blog para aprender cómo tú también puedes ejecutar
       acciones sencillas para proteger tus datos en Internet
-    actions:
-      - label: Google Play
-        url: /pricing
-        style: secondary
+    actions: []
     image: /images/landing1.jpg
     image_alt: Hero section placeholder image
     media_position: left
