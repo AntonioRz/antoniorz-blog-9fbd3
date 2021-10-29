@@ -112,7 +112,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: blog_feed_section
-    title: Productivity Blog
+    title: Blog
     actions:
       - label: View All
         url: /blog
