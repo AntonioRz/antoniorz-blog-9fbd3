@@ -61,9 +61,9 @@ sections:
       - title: Comparte con tus conocidos
         title_align: left
         content: |
-          Si aprendiste algo leyendo mi blog, por favor comparte. 
+          Si aprendiste algo leyendo mi blog, por favor comparte.
 
-          Me sería de mucha ayuda.
+          Entre todos podemos hacer que Internet sea un lugar más seguro.
         content_align: left
         actions:
           - label: Learn More
