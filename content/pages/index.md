@@ -111,7 +111,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the App theme
     - name: 'twitter:image'
-      value: /images/MainLogo-7e097134.png
+      value: /images/IconoLogo2.png
       relativeUrl: true
 layout: advanced
 ---
