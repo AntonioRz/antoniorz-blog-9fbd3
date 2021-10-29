@@ -3,9 +3,9 @@ title: ¿Qué carajos es la seguridad informática?
 subtitle: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
 date: '2021-10-23'
 categories:
-  - content/data/categories/tutorials.yaml
+  - content/data/categories/general.yaml
 tags:
-  - content/data/tags/tips.yaml
+  - content/data/tags/informativo.yaml
 excerpt: >-
   Setting realistic expectations for yourself and your colleagues, putting down
   your phone for 30 minutes a day, and the "no cellphone in bed" rule  — what's
@@ -16,30 +16,30 @@ image: /images/blog1.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
-  title: 6 Tips to Achieve Work Life Balance
-  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+  title: ¿Qué carajos es la seguridad informática?
+  description: 'Explicación sencilla de seguridad informática'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 6 Tips to Achieve Work Life Balance
+      value: ¿Qué carajos es la seguridad informática?
       keyName: property
     - name: 'og:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: 'Explicación sencilla de seguridad informática'
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: images/blog1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 6 Tips to Achieve Work Life Balance
+      value: ¿Qué carajos es la seguridad informática?
     - name: 'twitter:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: 'Explicación sencilla de seguridad informática'
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: images/blog1.jpg
       relativeUrl: true
 layout: post
 ---
