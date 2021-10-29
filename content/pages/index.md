@@ -95,7 +95,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Antonio Rz
+      value: AntonioRz Blog
       keyName: property
     - name: 'og:description'
       value: Todos podemos hacer un Internet más seguro
