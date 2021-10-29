@@ -28,6 +28,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#### ![](https://soyantoniorz.com/images/icono1-de1c2d62.png)&#xA;&#xA;
-
-#### Hola mi nombre es Antonio Ruiz, soy **ingeniero en seguridad de la información**. Me especializo en arquitectura de **seguridad Cloud y Endpoints**.
+#### ![](https://soyantoniorz.com/images/icono1-de1c2d62.png)&#xA;
