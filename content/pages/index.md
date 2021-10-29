@@ -39,13 +39,7 @@ sections:
           Información para tu PC, celular, tablet, Smart TV, asistentes e
           "Internet de las cosas".
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-2.svg
         image_alt: Icon 2
