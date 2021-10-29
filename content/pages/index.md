@@ -89,7 +89,7 @@ sections:
     background_color: primary
 seo:
   title: AntonioRz
-  description: The preview of the App theme
+  description: Todos podemos hacer un Internet más seguro
   extra:
     - name: 'og:type'
       value: website
