@@ -30,7 +30,7 @@ layout: page
 ---
 ![](/images/icono1-de1c2d62.png)
 
-###### Hola mi nombre es Antonio Ruiz, soy ingeniero de seguridad de la Información. Me especializo en arquitectura de seguridad Cloud y Endpoints.
+###### Hola mi nombre es Antonio Ruiz, soy ingeniero de seguridad de la Información. Me especializo en arquitectura de seguridad** Cloud y Endpoints.**
 
 ###### Mi objetivo con este blog: Soy fiel creyente de que el conocimiento debería estar al alcance de todos. Es por eso que en este blog pretendo compartir información básica y útil que todos deberían conocer para proteger mejor su información. En este blog trataré de no usar tecnicismos, sino que te explicaré con un lenguaje cotidiano y ejemplos sencillos. Mi propósito es que cada palabra que leas te sea útil en tu día a día, consejos prácticos que puedas poner en acción al terminar de leer un artículo.
 
