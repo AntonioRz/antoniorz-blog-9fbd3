@@ -1,5 +1,5 @@
 ---
-title: Making Time for What's Important
+title: New post coming soon...
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
