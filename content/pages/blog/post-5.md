@@ -1,5 +1,5 @@
 ---
-title: 6 Tips to Achieve Work Life Balance
+title: ¿Qué carajos es la seguridad informática?
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
