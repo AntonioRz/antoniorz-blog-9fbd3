@@ -42,7 +42,7 @@
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "Últimos posts",
+                "label": "Publicaciones recientes",
                 "url": "/blog/category/news",
                 "style": "link"
             },
