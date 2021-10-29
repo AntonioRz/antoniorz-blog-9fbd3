@@ -85,7 +85,7 @@
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/soyantoniorz/",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "linkedin",
                 "icon_position": "center",
