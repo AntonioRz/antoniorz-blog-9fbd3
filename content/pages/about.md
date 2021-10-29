@@ -28,7 +28,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![](https://soyantoniorz.com/images/icono1-de1c2d62.png)
+
+
+![](/images/icono1-de1c2d62.png)
 
 
 
