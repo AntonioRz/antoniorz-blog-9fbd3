@@ -23,7 +23,8 @@ sections:
   - type: form_section
     title: Suscribete
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: |
+      Suscribete para estar informado de nuevas publicaciones
     content_align: center
     form_position: bottom
     form_layout: inline
