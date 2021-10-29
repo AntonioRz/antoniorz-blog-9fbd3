@@ -101,7 +101,7 @@ seo:
       value: Todos podemos hacer un Internet más seguro
       keyName: property
     - name: 'og:image'
-      value: /images/IconoLogo.png
+      value: /images/IconoLogo2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
