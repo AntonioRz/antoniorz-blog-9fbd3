@@ -4,8 +4,10 @@ subtitle: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegem
 date: '2021-10-23'
 categories:
   - content/data/categories/general.yaml
+  - content/data/categories/news.yaml
 tags:
   - content/data/tags/informativo.yaml
+  - content/data/categories/news.yaml
 excerpt: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
 thumb_image: /images/blog1.jpg
 thumb_image_alt: Post 5 placeholder image
