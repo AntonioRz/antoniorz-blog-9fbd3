@@ -50,11 +50,6 @@
                 "label": "General",
                 "url": "/blog/category/general",
                 "style": "link"
-            },
-            {
-                "label": "Tutoriales",
-                "url": "/blog/category/tutorials",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
