@@ -1,5 +1,5 @@
 ---
-title: Home
+title: AntonioRz
 sections:
   - type: hero_section
     title: Todos podemos hacer un Internet más seguro
@@ -26,13 +26,7 @@ sections:
           Explicaciones sin tecnicismos, el punto es entender el concepto. No
           abrumarte más.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-1.svg
         image_alt: Icon 1
@@ -45,13 +39,7 @@ sections:
           Información para tu PC, celular, tablet, Smart TV, asistentes e
           "Internet de las cosas".
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-2.svg
         image_alt: Icon 2
@@ -65,13 +53,7 @@ sections:
 
           Entre todos podemos hacer que Internet sea un lugar más seguro.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/icon-3.svg
         image_alt: Icon 3
@@ -106,30 +88,30 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: Stackbit App Theme
-  description: The preview of the App theme
+  title: AntonioRz Blog
+  description: Todos podemos hacer un Internet más seguro
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit App Theme
+      value: AntonioRz Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: Todos podemos hacer un Internet más seguro
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/IconoLogo2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit App Theme
+      value: AntonioRz Blog
     - name: 'twitter:description'
-      value: The preview of the App theme
+      value: Todos podemos hacer un Internet más seguro
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/IconoLogo2.png
       relativeUrl: true
 layout: advanced
 ---

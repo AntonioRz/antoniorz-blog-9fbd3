@@ -2,7 +2,7 @@
 title: News
 sections:
   - type: hero_section
-    title: News
+    title: Publicaciones recientes
     align: center
     padding_top: medium
     padding_bottom: none
@@ -21,10 +21,10 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Newsletter Signup
+    title: Suscribete
     title_align: center
-    content: >-
-      Subscribe to our newsletter to make sure you don't miss anything.
+    content: |
+      Suscribete para estar informado de nuevas publicaciones
     content_align: center
     form_position: bottom
     form_layout: inline
@@ -34,9 +34,9 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu dirección de correo electrónico
         is_required: true
-    submit_label: Subscribe
+    submit_label: Suscribir
     padding_top: medium
     padding_bottom: medium
     has_border: true
@@ -45,26 +45,26 @@ seo:
   title: Posts in News
   description: This is the category archive page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Posts in News
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the category archive page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-4.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Posts in News
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the category archive page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-4.jpg
       relativeUrl: true
 layout: advanced

@@ -3,7 +3,6 @@ title: Blog
 sections:
   - type: hero_section
     title: Blog
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none
@@ -21,10 +20,9 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Newsletter Signup
+    title: Suscribete
     title_align: center
-    content: >-
-      Subscribe to our newsletter to make sure you don't miss anything.
+    content: "\_Suscribete para estar informado de nuevas publicaciones\n\n"
     content_align: center
     form_position: bottom
     form_layout: inline
@@ -34,9 +32,9 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu dirección de correo electrónico
         is_required: true
-    submit_label: Subscribe
+    submit_label: Suscribir
     padding_top: medium
     padding_bottom: medium
     has_border: true
@@ -45,26 +43,26 @@ seo:
   title: Blog
   description: This is the blog page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Blog
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the blog page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-5.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Blog
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the blog page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-5.jpg
       relativeUrl: true
 layout: advanced

@@ -1,5 +1,5 @@
 ---
-title: Sobre mí
+title: Una breve descripción de mi persona...
 seo:
   title: About
   description: This is the about us page
