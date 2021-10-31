@@ -27,7 +27,7 @@
         ]
     },
     "footer": {
-        "logo": "/images/logo2.png",
+        "logo": "/images/MainLogo-7e097134.png",
         "logo_alt": "AntonioRz",
         "has_primary_nav": true,
         "primary_nav_title": "AntonioRz",
@@ -103,4 +103,5 @@
         "anncmnt_id": "new-features"
     },
     "domain": "soyantoniorz.com",
-    "favicon": "/images/logo2.png"
+    "favicon": "/images/MainLogo-7e097134.png"
+}
