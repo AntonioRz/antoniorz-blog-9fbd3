@@ -30,7 +30,7 @@ layout: page
 ---
 ![](/images/icono1-de1c2d62.png)
 
-Hola mi nombre es Antonio Ruiz. Soy ingeniero en seguridad de la Información. Me especializo en arquitectura de seguridad **Cloud y Endpoints**.
+ Hola mi nombre es Antonio Ruiz. Soy ingeniero en seguridad de la Información. Me especializo en arquitectura de seguridad **Cloud y Endpoints**.
 
 Soy un apasionado de la tecnología y el impacto positivo que tiene en nuestra sociedad. Creo en un Internet decentralizado, libre y seguro. Me gustaría vivir la Web 3.0 en su apogeo. Internet ha impactado mucho en mi desarrollo profesional y personal. Considero que es una herramienta que toda persona a su accesso debería poder explotar.
 
