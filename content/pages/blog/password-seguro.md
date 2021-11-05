@@ -1,7 +1,7 @@
 ---
 title: ¿Cómo es una contraseña segura?
 subtitle: 'Lamento decirte que esa fecha especial no es tan difícil de adivinar...'
-date: '2021-11-04'
+date: '2021-11-05'
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/news.yaml
@@ -9,9 +9,9 @@ tags:
   - content/data/tags/informativo.yaml
   - content/data/categories/news.yaml
 excerpt: 'Lamento decirte que esa fecha especial no es tan difícil de adivinar...'
-thumb_image: /images/blog1.jpg
+thumb_image: /images/pass.jpg
 thumb_image_alt: Contraseña
-image: /images/blog1.jpg
+image: /images/pass.jpg
 image_alt: Contraseña
 image_position: right
 seo:
@@ -28,7 +28,7 @@ seo:
       value: Tutorial para crear contraseñas seguras
       keyName: property
     - name: 'og:image'
-      value: images/blog1.jpg
+      value: images/pass.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:description'
       value: Tutorial para crear contraseñas seguras
     - name: 'twitter:image'
-      value: images/blog1.jpg
+      value: images/pass.jpg
       relativeUrl: true
 layout: post
 author: content/data/team/antonio-ruiz.json
