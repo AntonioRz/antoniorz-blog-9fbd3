@@ -6,7 +6,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: none
-    background_color: primary
+    background_color: secondary
     section_id: Blog
     image_alt: Blog
     has_border: true
