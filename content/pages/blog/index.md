@@ -22,7 +22,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-    background_color: primary
+    background_color: secondary
 seo:
   title: Blog
   description: This is the blog page
