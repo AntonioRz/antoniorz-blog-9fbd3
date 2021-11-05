@@ -2,10 +2,10 @@
     "title": "AntonioRz",
     "path_prefix": "/",
     "layout_type": "full-width",
-    "style": "minimal",
+    "style": "bold",
     "palette": "blue",
     "mode": "light",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "App",
         "logo": "/images/logo2_Horizontal.png",
