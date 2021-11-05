@@ -8,6 +8,7 @@ sections:
     padding_bottom: none
     background_color: none
     section_id: Blog
+    image_alt: Blog
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
