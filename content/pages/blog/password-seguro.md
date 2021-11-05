@@ -41,6 +41,7 @@ seo:
       value: images/blog1.jpg
       relativeUrl: true
 layout: post
+author: content/data/team/person-degljnwqn.json
 ---
 Cuando Internet nació, su único propósito era compartir información lo "más rápido posible" (considerando los medios de comunicación de la epoca). A nadie se le ocurrió que podría haber espías leyendo esos mensajes o que se podía robar información del lugar donde se almacenaban los datos. Desafortunadamente nadie dijo *"¡Oh! Mira qué fácil es acceder a este archivo clasificado. Deberíamos implementar medidas de seguridad".*
 

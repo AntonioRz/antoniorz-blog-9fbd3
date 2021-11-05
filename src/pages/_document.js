@@ -32,6 +32,7 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
+<<<<<<< HEAD
 
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7GVK3NPNZR"></script>
 
@@ -43,6 +44,17 @@ export default class MyDocument extends Document {
                     gtag('config', 'G-7GVK3NPNZR');`
                 }}/>
 
+=======
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-7GVK3NPNZR"></script>
+
+                <script dangerouslySetInnerHTML={{ 
+                    __html: `                window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+
+                    gtag('config', 'G-7GVK3NPNZR');`
+                }}/>
+>>>>>>> master
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src="/js/plugins.js" />

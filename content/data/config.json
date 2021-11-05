@@ -2,10 +2,10 @@
     "title": "AntonioRz",
     "path_prefix": "/",
     "layout_type": "full-width",
-    "style": "minimal",
+    "style": "bold",
     "palette": "blue",
     "mode": "light",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "App",
         "logo": "/images/logo2_Horizontal.png",
@@ -50,27 +50,11 @@
                 "label": "General",
                 "url": "/blog/category/general",
                 "style": "link"
-            },
-            {
-                "label": "Tutoriales",
-                "url": "/blog/category/tutorials",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
         "tertiary_nav_title": "Legal",
-        "tertiary_nav_links": [
-            {
-                "label": "Términos y condiciones",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
-                "label": "Aviso de privacidad",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
+        "tertiary_nav_links": [],
         "has_social": true,
         "social_links": [
             {
