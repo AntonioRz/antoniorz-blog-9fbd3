@@ -9,6 +9,7 @@ sections:
     background_color: none
     section_id: Blog
     image_alt: Blog
+    has_border: true
   - type: blog_feed_section
     blog_feed_cols: two
     enable_cards: true
