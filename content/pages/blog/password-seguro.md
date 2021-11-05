@@ -1,31 +1,31 @@
 ---
-title: ¿Qué carajos es la seguridad informática?
-subtitle: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
-date: '2021-10-23'
+title: ¿Cómo es una contraseña segura?
+subtitle: 'Lamento decirte que esa fecha especial no es tan difícil de adivinar...'
+date: '2021-11-04'
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/news.yaml
 tags:
   - content/data/tags/informativo.yaml
   - content/data/categories/news.yaml
-excerpt: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
+excerpt: 'Lamento decirte que esa fecha especial no es tan difícil de adivinar...'
 thumb_image: /images/blog1.jpg
-thumb_image_alt: Post 5 placeholder image
+thumb_image_alt: Contraseña
 image: /images/blog1.jpg
-image_alt: Post 5 placeholder image
+image_alt: Contraseña
 image_position: right
 seo:
-  title: ¿Qué carajos es la seguridad informática?
-  description: Explicación sencilla de seguridad informática
+  title: ¿Cómo es una contraseña segura?
+  description: Tutorial para crear contraseñas seguras
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: ¿Qué carajos es la seguridad informática?
+      value: ¿Cómo es una contraseña segura?
       keyName: property
     - name: 'og:description'
-      value: Explicación sencilla de seguridad informática
+      value: Tutorial para crear contraseñas seguras
       keyName: property
     - name: 'og:image'
       value: images/blog1.jpg
@@ -34,14 +34,14 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: ¿Qué carajos es la seguridad informática?
+      value: ¿Cómo es una contraseña segura?
     - name: 'twitter:description'
-      value: Explicación sencilla de seguridad informática
+      value: Tutorial para crear contraseñas seguras
     - name: 'twitter:image'
       value: images/blog1.jpg
       relativeUrl: true
 layout: post
-author: content/data/team/person-degljnwqn.json
+author: content/data/team/antonio-ruiz.json
 ---
 Cuando Internet nació, su único propósito era compartir información lo "más rápido posible" (considerando los medios de comunicación de la epoca). A nadie se le ocurrió que podría haber espías leyendo esos mensajes o que se podía robar información del lugar donde se almacenaban los datos. Desafortunadamente nadie dijo *"¡Oh! Mira qué fácil es acceder a este archivo clasificado. Deberíamos implementar medidas de seguridad".*
 
