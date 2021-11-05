@@ -19,26 +19,6 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
-    title: Suscribete
-    title_align: center
-    content: "\_Suscribete para estar informado de nuevas publicaciones\n\n"
-    content_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Tu dirección de correo electrónico
-        is_required: true
-    submit_label: Suscribir
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: secondary
 seo:
   title: Blog
   description: This is the blog page
