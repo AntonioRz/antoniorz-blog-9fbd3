@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Blog
     align: center
-    padding_top: none
+    padding_top: small
     padding_bottom: none
     background_color: none
     section_id: Blog
