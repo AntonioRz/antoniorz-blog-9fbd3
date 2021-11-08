@@ -1,5 +1,5 @@
 ---
-title: ¿Qué carajos es la seguridad informática?
+title: ¿Qué es la seguridad informática?
 subtitle: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
 date: '2021-10-23'
 categories:
