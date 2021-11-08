@@ -45,7 +45,7 @@ author: content/data/team/antonio-ruiz.json
 ---
 ##### ¿Cómo fue que hackearon tu Facebook?
 
-Todos hemos escuchado alguna vez de alguien a quien le “hackearon” alguna de sus cuentas de redes sociales. Tristemente, esto es más común de lo que se pudiera pensar. La buena noticia es que evitar que te pase es más fácil de lo que crees.
+Todos hemos escuchado alguna vez de alguien a quien le “hackearon” alguna de sus cuentas de redes sociales. Tristemente, esto es más común de lo que se pudiera pensar. La buena noticia es que evitar que te pase es más fácil de lo que crees.
 
 La mayoría de esos “hackeos” ocurren porque las contraseñas que usamos no son lo suficientemente seguras. Y con esto no me refiero a que deban estar protegidas en alguna caja fuerte, sino a que la gente suele pensar que es buena idea establecer información “personal” como su contraseña. Algunos ejemplos pueden ser: fechas de cumpleaños, nombres de familiares, de mascotas, o su  favorit@. Si nos ponemos creativos, le agregamos un signo de exclamación o de pesitos al final (porque claro, ¿quién sospecharía de esa astucia?).
 
@@ -53,7 +53,7 @@ Y eso que los ejemplos anteriores son contraseñas “poco comunes”. De hecho,
 
 ##### Bueno, pero mi contraseña es super difícil, nunca la adivinarían.
 
-Desafortunadamente, la poca complejidad de las contraseñas no es el único punto en contra. El reúso de contraseñas es otro factor importante para considerar. Varios de los sitios que hemos usado a lo largo de nuestro trayecto en Internet no estaban bien configurados, no eran seguros.
+Desafortunadamente, la poca complejidad de las contraseñas no es el único punto en contra. El reúso de contraseñas es otro factor importante para considerar. Varios de los sitios que hemos usado a lo largo de nuestro trayecto en Internet no estaban bien configurados, no eran seguros.
 
 Es probable que alguno de los sitios donde alguna vez creamos una cuenta de usuario ya haya sido “hackeado” previamente. ¿Y esto cómo te afecta? Pues verás, si un sitio fue hackeado, es probable que su base de datos de usuarios haya sido expuesta públicamente en Internet. Si la configuración de la base de datos no es correcta, muy probablemente tu usuario y contraseña estén flotando en algún archivo de Internet.
 
@@ -63,7 +63,7 @@ Prácticamente cualquiera podría consultar ese archivo filtrado y tener acceso 
 
 Ahora que sabes que tu contraseña de siempre “MasterChief92!” no es tan segura como pensabas, revisemos como podemos solucionar esto. Para eso te dejo los siguientes sencillos pasos:
 
-1.    No uses passwords, usa passphrases. En castellano, en lugar de usar una palabra, usa una frase. En lugar de usar “MasterChief92!”, usa “MasterChiefEsMiPasswordMuySeguro”.
+1.  No uses passwords, usa passphrases. En castellano, en lugar de usar una palabra, usa una frase. En lugar de usar “MasterChief92!”, usa “MasterChiefEsMiPasswordMuySeguro”.
 
 2.  Agrégale números y signos como cuando te querías ver cool en Hi5. “M4st3r_Ch13f\_3s_M1\_P4ssw0rd_Muy_S3gur0”. Como ves en el ejemplo, sustituí las letras por números (excepto la u porque no supe qué poner).
 
@@ -75,8 +75,6 @@ Ahora que sabes que tu contraseña de siempre “MasterChief92!” no es tan seg
 
 *   “M4st3r_Tw1tt3r_Ch13f\_3s_M1\_P4ssw0rd_Muy_S3gur0”.
 
-
 No te enfoques en la complejidad (signos y números que usas), lo que realmente le da seguridad a una contraseña es la longitud. Matemáticamente, es más complicado adivinar todas las letras, números y signos (y su orden) de una contraseña de 15 caracteres que de una de 5.
 Los consejos que te estoy compartiendo son los más sencillos. Empecemos con lo simple. Estoy seguro de que esta información te será útil y la puedes empezar a aplicar desde hoy. Recuerda que la prevención de hoy evitará el hackeo de mañana.
 En futuras publicaciones te brindaré consejos más avanzados para que domines la seguridad de tus cuentas en Internet.
-
