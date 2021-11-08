@@ -1,14 +1,14 @@
 ---
 title: ¿Cómo es una contraseña segura?
-subtitle: 'Lamento decirte que esa fecha especial no es tan difícil de adivinar...'
-date: '2021-11-05'
+subtitle: Lamento decirte que esa fecha especial no es tan difícil de adivinar...
+date: '2021-11-07'
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/news.yaml
 tags:
   - content/data/tags/informativo.yaml
   - content/data/categories/news.yaml
-excerpt: 'Lamento decirte que esa fecha especial no es tan difícil de adivinar...'
+excerpt: Lamento decirte que esa fecha especial no es tan difícil de adivinar...
 thumb_image: /images/pass.jpg
 thumb_image_alt: Contraseña
 image: /images/pass.jpg
