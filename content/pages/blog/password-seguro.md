@@ -76,5 +76,6 @@ Ahora que sabes que tu contraseña de siempre “MasterChief92!” no es tan seg
 *   “M4st3r_Tw1tt3r_Ch13f\_3s_M1\_P4ssw0rd_Muy_S3gur0”.
 
 No te enfoques en la complejidad (signos y números que usas), lo que realmente le da seguridad a una contraseña es la longitud. Matemáticamente, es más complicado adivinar todas las letras, números y signos (y su orden) de una contraseña de 15 caracteres que de una de 5.
+
 Los consejos que te estoy compartiendo son los más sencillos. Empecemos con lo simple. Estoy seguro de que esta información te será útil y la puedes empezar a aplicar desde hoy. Recuerda que la prevención de hoy evitará el hackeo de mañana.
 En futuras publicaciones te brindaré consejos más avanzados para que domines la seguridad de tus cuentas en Internet.
