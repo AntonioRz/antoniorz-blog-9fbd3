@@ -43,22 +43,40 @@ seo:
 layout: post
 author: content/data/team/antonio-ruiz.json
 ---
-Cuando Internet nació, su único propósito era compartir información lo "más rápido posible" (considerando los medios de comunicación de la epoca). A nadie se le ocurrió que podría haber espías leyendo esos mensajes o que se podía robar información del lugar donde se almacenaban los datos. Desafortunadamente nadie dijo *"¡Oh! Mira qué fácil es acceder a este archivo clasificado. Deberíamos implementar medidas de seguridad".*
+##### ¿Cómo fue que hackearon tu Facebook?
 
-Actualmente eso ha cambiado mucho y *cada vez existen medidas de seguridad más confiables y efectivas*. Pero no necesitamos ser expertos en Ciberseguridad para aplicar esas medidas a nuestra vida diaria. Si estás leyendo esto, eres parte de Internet y debes saber que tienes la **responsabilidad** de cuidar tu información personal.
+Todos hemos escuchado alguna vez de alguien a quien le “hackearon” alguna de sus cuentas de redes sociales. Tristemente, esto es más común de lo que se pudiera pensar. La buena noticia es que evitar que te pase es más fácil de lo que crees.
 
-###### ¿Por qué debería importarme la seguridad informática?
+La mayoría de esos “hackeos” ocurren porque las contraseñas que usamos no son lo suficientemente seguras. Y con esto no me refiero a que deban estar protegidas en alguna caja fuerte, sino a que la gente suele pensar que es buena idea establecer información “personal” como su contraseña. Algunos ejemplos pueden ser: fechas de cumpleaños, nombres de familiares, de mascotas, o su  favorit@. Si nos ponemos creativos, le agregamos un signo de exclamación o de pesitos al final (porque claro, ¿quién sospecharía de esa astucia?).
 
-Desde hace tiempo, Internet se volvió parte crucial de nuestras vidas; tanto así que cuando cae una de las grandes compañías, la comunicación colapsa y nos sentimos impotentes porque lo único que podemos hacer es recargar la app hasta ver si por fin se envió nuestro mensaje. La verdad es que le hemos dado mucho poder a Internet; tanto poder que no nos importa la información personal que almacenan de nosotros o los **permisos innecesarios** que puede solicitar una aplicación de "*calculadora*". Esta **pasividad** ante cómo se recolecta y almacena nuestra información es un arma de doble filo, pues si bien nos da acceso a todo un mundo, no nos damos cuenta que nosotros mismo alimentamos ese mundo.
+Y eso que los ejemplos anteriores son contraseñas “poco comunes”. De hecho, estadísticamente los passwords más usados son palabras aún más simples y comunes. Algunos de estos son: “password”, “contraseña” y para agregarle complejidad “password123”.
 
-###### ¿Ok, pero por dónde inicio? 
+##### Bueno, pero mi contraseña es super difícil, nunca la adivinarían.
 
-La seguridad informática es un **conjunto de acciones y herramientas** que nos ayudarán a mejorar el control de acceso a nuestra información.
+Desafortunadamente, la poca complejidad de las contraseñas no es el único punto en contra. El reúso de contraseñas es otro factor importante para considerar. Varios de los sitios que hemos usado a lo largo de nuestro trayecto en Internet no estaban bien configurados, no eran seguros.
 
-La seguridad informática va más allá de un antivirus o el firewall de Windows.
+Es probable que alguno de los sitios donde alguna vez creamos una cuenta de usuario ya haya sido “hackeado” previamente. ¿Y esto cómo te afecta? Pues verás, si un sitio fue hackeado, es probable que su base de datos de usuarios haya sido expuesta públicamente en Internet. Si la configuración de la base de datos no es correcta, muy probablemente tu usuario y contraseña estén flotando en algún archivo de Internet.
 
-La seguridad informática inicia desde que somos conscientes de la importancia de nuestros datos. La seguridad informática es tener cuidado con los **permisos** que otorgamos a las aplicaciones, es **ser cuidadoso** de dónde ponemos los datos de nuestras tarjetas de crédito, es saber identificar un e-mail o sitio Web falso, es crear **contraseñas seguras**, es **actualizar constantemente nuestros equipos**, es no conectarnos a redes públicas, es no instalar aplicaciones de sitios que no sean tiendas de aplicaciones oficiales, etc. Esas pequeñas acciones nos ayudarán a evitar algún "hackeo" a nuestra privacidad.
+Prácticamente cualquiera podría consultar ese archivo filtrado y tener acceso a tu cuenta. Y como usas la misma contraseña para otras cuentas… hackeado. Como te puedes dar cuenta, te hackearon sin hackearte. Es decir, sin tener interacción alguna contigo, pudieron tener acceso a tus cuentas.
 
-Como ves, estas sencillas acciones nos ayudarán a mejorar la seguridad de nuestra información. No necesitamos tener una carrera universitaria ni ser unos "*hackers*" (palabra mal usada muchas veces, pero eso va en otro post) para seguirlas. **Todos podemos hacer de Internet un lugar más seguro.** Si dejamos de llamar "hackeo" a todo lo que no hacemos por deconocimiento, tendremos una mejor cultura para salvaguardar nuestra información.
+##### Aprende a hacer contraseñas más seguras con estos sencillos consejos
 
-Te invito a que me sigas en mis redes sociales para que estés informado de cómo puedes ayudar tú a que Internet sea un mejor lugar para todos.
+Ahora que sabes que tu contraseña de siempre “MasterChief92!” no es tan segura como pensabas, revisemos como podemos solucionar esto. Para eso te dejo los siguientes sencillos pasos:
+
+1.    No uses passwords, usa passphrases. En castellano, en lugar de usar una palabra, usa una frase. En lugar de usar “MasterChief92!”, usa “MasterChiefEsMiPasswordMuySeguro”.
+
+2.  Agrégale números y signos como cuando te querías ver cool en Hi5. “M4st3r_Ch13f\_3s_M1\_P4ssw0rd_Muy_S3gur0”. Como ves en el ejemplo, sustituí las letras por números (excepto la u porque no supe qué poner).
+
+3.  Evita reusar tus contraseñas. Para que no se te olviden tantas contraseñas, puedes agregar el nombre del sitio al que pertenece tu contraseña. Intenta mover el sitio en diferentes posiciones de la frase:
+
+*   “M4st3r_Ch13f\_3s_M1\_P4ssw0rd_Muy_S3gur0\_F4c3b00k”.
+
+*   “1nst4gr4m_M4st3r_Ch13f\_3s_M1\_P4ssw0rd_Muy_S3gur0”.
+
+*   “M4st3r_Tw1tt3r_Ch13f\_3s_M1\_P4ssw0rd_Muy_S3gur0”.
+
+
+No te enfoques en la complejidad (signos y números que usas), lo que realmente le da seguridad a una contraseña es la longitud. Matemáticamente, es más complicado adivinar todas las letras, números y signos (y su orden) de una contraseña de 15 caracteres que de una de 5.
+Los consejos que te estoy compartiendo son los más sencillos. Empecemos con lo simple. Estoy seguro de que esta información te será útil y la puedes empezar a aplicar desde hoy. Recuerda que la prevención de hoy evitará el hackeo de mañana.
+En futuras publicaciones te brindaré consejos más avanzados para que domines la seguridad de tus cuentas en Internet.
+
