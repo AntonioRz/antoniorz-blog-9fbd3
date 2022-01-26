@@ -1,6 +1,8 @@
 ---
 title: Robustece la seguridad de tus cuentas
-subtitle: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
+subtitle: >-
+  Cuando entiendes que tus contraseñas no son suficiente, estás listo para dar
+  el siguiente paso
 date: '2022-01-25'
 categories:
   - content/data/categories/general.yaml
