@@ -15,7 +15,7 @@ thumb_image_alt: Factores de autenticación
 image_alt: Factores de autenticación
 image_position: left
 seo:
-  title: ¿Qué carajos es la seguridad informática?
+  title: ¿Qué son los factores de autenticación y por qué debería usar más de uno?
   description: Explicación sencilla de seguridad informática
   extra:
     - name: 'og:type'
