@@ -36,7 +36,9 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: >-
+        En este blog encontrarás información útil sobre seguridad informática
+        para todos.
       keyName: property
     - name: 'og:image'
       value: /images/IconoLogo-e70413b7.png
