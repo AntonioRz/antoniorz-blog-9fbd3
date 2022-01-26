@@ -25,7 +25,9 @@ sections:
     background_color: primary
 seo:
   title: Blog
-  description: This is the blog page
+  description: >-
+    En este blog encontrarás información útil sobre seguridad informática para
+    todos.
   extra:
     - name: 'og:type'
       value: website
