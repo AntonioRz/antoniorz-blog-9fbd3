@@ -11,7 +11,7 @@ tags:
   - content/data/tags/informativo.yaml
   - content/data/categories/news.yaml
 excerpt: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
-thumb_image_alt: Post 5 placeholder image
+thumb_image_alt: Factores de autenticación
 image_alt: Post 5 placeholder image
 image_position: left
 seo:
