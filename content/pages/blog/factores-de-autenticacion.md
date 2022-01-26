@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es la seguridad informática?
+title: Robustece la seguridad de tus cuentas
 subtitle: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
 date: '2021-10-23'
 categories:
