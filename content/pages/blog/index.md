@@ -49,7 +49,9 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >-
+        En este blog encontrarás información útil sobre seguridad informática
+        para todos.
     - name: 'twitter:image'
       value: /images/IconoLogo2.png
       relativeUrl: true
