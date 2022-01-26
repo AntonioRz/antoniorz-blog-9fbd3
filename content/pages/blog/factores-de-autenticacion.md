@@ -16,7 +16,9 @@ image_alt: Factores de autenticación
 image_position: left
 seo:
   title: ¿Qué son los factores de autenticación y por qué debería usar más de uno?
-  description: Explicación sencilla de seguridad informática
+  description: >-
+    Cuando entiendes que tus contraseñas no son suficiente, estás listo para dar
+    el siguiente paso.
   extra:
     - name: 'og:type'
       value: article
