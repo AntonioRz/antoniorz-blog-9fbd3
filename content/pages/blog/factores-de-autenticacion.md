@@ -1,7 +1,7 @@
 ---
 title: Robustece la seguridad de tus cuentas
 subtitle: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
-date: '2021-10-23'
+date: '2021-10-02'
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/news.yaml
