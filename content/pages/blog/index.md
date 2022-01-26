@@ -39,7 +39,7 @@ seo:
       value: This is the blog page
       keyName: property
     - name: 'og:image'
-      value: images/post-5.jpg
+      value: /images/IconoLogo-e70413b7.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
