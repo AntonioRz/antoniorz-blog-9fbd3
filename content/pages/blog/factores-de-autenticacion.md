@@ -42,7 +42,6 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: /images/blog1.jpg
-image: /images/blog1.jpg
 author: content/data/team/person-degljnwqn.json
 ---
 Un factor de autenticación es aquel elemento que “asegura” que tú eres quien dices ser al acceder a una cuenta. El más claro ejemplo de esto es una contraseña. Una contraseña “asegura” que Antonio es @soyantoniorz porque Antonio es quien conoce esa palabra mágica para tener acceso a dicha cuenta.
