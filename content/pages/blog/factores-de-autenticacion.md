@@ -2,7 +2,7 @@
 title: ¿Qué son los factores de autenticación y por qué debería usar más de uno?
 subtitle: >-
   Cuando entiendes que tus contraseñas no son suficiente, estás listo para dar
-  el siguiente paso
+  el siguiente paso.
 date: '2022-01-26'
 categories:
   - content/data/categories/general.yaml
