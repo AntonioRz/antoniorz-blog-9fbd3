@@ -41,7 +41,7 @@ seo:
         para todos.
       keyName: property
     - name: 'og:image'
-      value: /images/IconoLogo-e70413b7.png
+      value: /images/IconoLogo2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
