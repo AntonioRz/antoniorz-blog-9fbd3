@@ -30,7 +30,7 @@ layout: page
 ---
 ![](/images/icono1-de1c2d62.png)
 
- Hola mi nombre es Antonio Ruiz. Soy ingeniero en seguridad de la Información. Me especializo en arquitectura de seguridad **Cloud y Endpoints**.
+Hola mi nombre es Antonio Ruiz. Soy ingeniero en seguridad de la Información. Me especializo en arquitectura de seguridad **Cloud y Endpoints**.
 
 Soy un apasionado de la tecnología y el impacto positivo que tiene en nuestra sociedad. Creo en un Internet decentralizado, libre y seguro. Me gustaría vivir la Web 3.0 en su apogeo. Internet ha impactado mucho en mi desarrollo profesional y personal. Considero que es una herramienta que toda persona a su accesso debería poder explotar.
 
@@ -41,8 +41,6 @@ Soy fiel creyente de que el conocimiento debería estar al alcance de todos. Es 
 En mi experiencia, me he dado cuenta de que la gente casi no se preocupa por dónde almacena su información o qué tipo de datos otorgan a practicamente cualquiera. Creo que esto se debe al desconocimiento que tienen las personas respecto a las medidas que pueden usar para estar más seguros en Internet. *Se suele pensar que esta información sólo es entendible para personas muy especializadas, pero esto no es verdad.*
 
 Si queremos un **Internet al alcance de todos**, tenemos que sensibilizar a la gente de la importancia de su **privacidad** y de como se usan sus datos. Internet puede ser un lugar mejor, está en manos de todos sus usuarios el crear un lugar más amigable para todos.
-
-Si queremos un Internet al alcance de todos, tenemos que sensibilizar a la gente de la importancia de su privacidad y de cómo se usan sus datos. Internet puede ser un lugar mejor. Está en manos de sus usuarios el crear un lugar más amigable para todos.
 
 **¡Todos podemos hacer de Internet un lugar más seguro!**
 
