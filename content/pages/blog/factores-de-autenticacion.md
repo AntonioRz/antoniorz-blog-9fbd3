@@ -13,7 +13,7 @@ tags:
 excerpt: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
 thumb_image_alt: Post 5 placeholder image
 image_alt: Post 5 placeholder image
-image_position: right
+image_position: left
 seo:
   title: ¿Qué carajos es la seguridad informática?
   description: Explicación sencilla de seguridad informática
