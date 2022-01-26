@@ -12,7 +12,7 @@ tags:
   - content/data/categories/news.yaml
 excerpt: 'Internet no fue hecho para ser seguro. Entonces, ¿Cómo nos protegemos?'
 thumb_image_alt: Factores de autenticación
-image_alt: Post 5 placeholder image
+image_alt: Factores de autenticación
 image_position: left
 seo:
   title: ¿Qué carajos es la seguridad informática?
