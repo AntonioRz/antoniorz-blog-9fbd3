@@ -3,7 +3,7 @@ title: Robustece la seguridad de tus cuentas
 subtitle: >-
   Cuando entiendes que tus contraseñas no son suficiente, estás listo para dar
   el siguiente paso
-date: '2022-01-25'
+date: '2022-01-02'
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/news.yaml
