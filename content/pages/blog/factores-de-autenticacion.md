@@ -45,11 +45,9 @@ thumb_image: /images/whoami.jpg
 author: content/data/team/person-degljnwqn.json
 image: /images/whoami-d250414d.jpg
 ---
-Un factor de autenticación es aquel elemento que “asegura” que tú eres quien dices ser al acceder a una cuenta. El más claro ejemplo de esto es una contraseña. Una contraseña “asegura” que Antonio es @soyantoniorz porque Antonio es quien conoce esa palabra mágica para tener acceso a dicha cuenta.
+Un **factor de autenticación** es aquel elemento que “*asegura*” que tú eres quien dices ser al acceder a una cuenta. El más claro ejemplo de esto es una contraseña. Una contraseña “*asegura*” que Antonio es @soyantoniorz porque Antonio es quien conoce esa palabra mágica para tener acceso a dicha cuenta. Sin embargo, las [contraseñas mal usadas](https://soyantoniorz.com/blog/password-seguro/) no son el elemento en el que más podemos confiar. Es por eso que debemos aprovechar el **uso de más de un factor de autenticación** siempre que sea posible.
 
-Sin embargo, las [contraseñas mal usadas](https://soyantoniorz.com/blog/password-seguro/) no son el elemento en el que más podemos confiar. Es por eso que debemos aprovechar el uso de más de un factor de autenticación siempre que sea posible. 
-
-¿Pero cómo puedo poner dos contraseñas para una misma cuenta? Bueno, no se trata de esto, sino de aprovechar otros métodos que demuestran que tú eres quien dices ser.
+###### ¿Pero cómo puedo poner dos contraseñas para una misma cuenta? Bueno, no se trata de esto, sino de aprovechar otros métodos que demuestran que tú eres quien dices ser.
 
 Otra forma de hacerlo es tener algo que demuestre que eres tú. Por ejemplo, cuando muestras tu gafete godin enmicado que demuestra que trabajas en el edificio X, o cuando muestras tu credencial del INAPAM para subir gratis al metro. El policía de la entrada (la entidad autenticadora) confía en que eres tú porque traes una credencial que así lo dice. Es importante recalcar aquí que esta credencial debe ser generada por una entidad oficial, por ejemplo, la administración del edifico donde trabajas o el Gobierno de tu ciudad.
 
