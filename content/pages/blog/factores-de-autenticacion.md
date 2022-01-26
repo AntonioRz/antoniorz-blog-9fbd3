@@ -1,5 +1,5 @@
 ---
-title: Robustece la seguridad de tus cuentas
+title: ¿Qué son los factores de autenticación y por qué debería usar más de uno?
 subtitle: >-
   Cuando entiendes que tus contraseñas no son suficiente, estás listo para dar
   el siguiente paso
