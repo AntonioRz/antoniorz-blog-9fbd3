@@ -45,7 +45,9 @@ seo:
         ¿Qué son los factores de autenticación y por qué debería usar más de
         uno?
     - name: 'twitter:description'
-      value: Explicación sencilla de seguridad informática
+      value: >
+        Cuando entiendes que tus contraseñas no son suficiente, estás listo para
+        dar el siguiente paso.
     - name: 'twitter:image'
       value: images/blog1.jpg
       relativeUrl: true
