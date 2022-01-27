@@ -35,7 +35,7 @@ seo:
 
       keyName: property
     - name: 'og:image'
-      value: images/blog1.jpg
+      value: /images/whoami-d250414d.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
