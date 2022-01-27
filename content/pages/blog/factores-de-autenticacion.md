@@ -49,7 +49,7 @@ seo:
         Cuando entiendes que tus contraseñas no son suficiente, estás listo para
         dar el siguiente paso.
     - name: 'twitter:image'
-      value: images/blog1.jpg
+      value: /images/whoami-d250414d.jpg
       relativeUrl: true
 layout: post
 thumb_image: /images/whoami.jpg
