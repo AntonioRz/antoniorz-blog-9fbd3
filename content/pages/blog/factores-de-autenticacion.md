@@ -41,7 +41,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: ¿Qué carajos es la seguridad informática?
+      value: >-
+        ¿Qué son los factores de autenticación y por qué debería usar más de
+        uno?
     - name: 'twitter:description'
       value: Explicación sencilla de seguridad informática
     - name: 'twitter:image'
