@@ -24,7 +24,9 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: ¿Qué carajos es la seguridad informática?
+      value: >-
+        ¿Qué son los factores de autenticación y por qué debería usar más de
+        uno?
       keyName: property
     - name: 'og:description'
       value: Explicación sencilla de seguridad informática
