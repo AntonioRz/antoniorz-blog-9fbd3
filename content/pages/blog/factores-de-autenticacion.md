@@ -29,7 +29,10 @@ seo:
         uno?
       keyName: property
     - name: 'og:description'
-      value: Explicación sencilla de seguridad informática
+      value: >+
+        Cuando entiendes que tus contraseñas no son suficiente, estás listo para
+        dar el siguiente paso.
+
       keyName: property
     - name: 'og:image'
       value: images/blog1.jpg
